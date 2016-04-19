@@ -4,6 +4,14 @@
         "source": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/menu/bluetooth_chat.xml"
     },
     {
+        "merged": "/Users/iguest/Desktop/04-19-lab-bluetoth/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/iguest/Desktop/04-19-lab-bluetoth/Application/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/iguest/Desktop/04-19-lab-bluetoth/Application/build/intermediates/res/merged/debug/menu/bluetooth_chat.xml",
+        "source": "/Users/iguest/Desktop/04-19-lab-bluetoth/Application/src/main/res/menu/bluetooth_chat.xml"
+    },
+    {
         "merged": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/res/merged/debug/menu/main.xml",
         "source": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/menu/main.xml"
     }

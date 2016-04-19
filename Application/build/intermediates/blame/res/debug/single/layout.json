@@ -4,12 +4,32 @@
         "source": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/layout/activity_device_list.xml"
     },
     {
+        "merged": "/Users/iguest/Desktop/04-19-lab-bluetoth/Application/build/intermediates/res/merged/debug/layout/fragment_bluetooth_chat.xml",
+        "source": "/Users/iguest/Desktop/04-19-lab-bluetoth/Application/src/main/res/layout/fragment_bluetooth_chat.xml"
+    },
+    {
+        "merged": "/Users/iguest/Desktop/04-19-lab-bluetoth/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/iguest/Desktop/04-19-lab-bluetoth/Application/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/iguest/Desktop/04-19-lab-bluetoth/Application/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/Users/iguest/Desktop/04-19-lab-bluetoth/Application/src/main/res/layout/device_name.xml"
+    },
+    {
         "merged": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/res/merged/debug/layout/device_name.xml",
         "source": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/layout/device_name.xml"
     },
     {
+        "merged": "/Users/iguest/Desktop/04-19-lab-bluetoth/Application/build/intermediates/res/merged/debug/layout/activity_device_list.xml",
+        "source": "/Users/iguest/Desktop/04-19-lab-bluetoth/Application/src/main/res/layout/activity_device_list.xml"
+    },
+    {
         "merged": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/res/merged/debug/layout/message.xml",
         "source": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/Users/iguest/Desktop/04-19-lab-bluetoth/Application/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/Users/iguest/Desktop/04-19-lab-bluetoth/Application/src/main/res/layout/message.xml"
     },
     {
         "merged": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
